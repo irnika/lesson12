@@ -1,0 +1,26 @@
+
+.main {
+  width: 900px;
+  margin: 0 auto;
+}
+
+H1 {
+text-align: center;
+}
+
+.photo{
+	width: 100%;
+}
+
+img {
+	width: 100%;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table, td, th {
+	border: 1px solid black;
+}
